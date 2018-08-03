@@ -1,0 +1,2 @@
+FROM microsoft/windowscoreserver
+LABEL author="hello@nicholasmcgee.com"
